@@ -1,0 +1,10 @@
+﻿  Game.cpp
+c:\users\aostr\source\repos\snake\snake\game.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\aostr\source\repos\snake\snake\game.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\aostr\source\repos\snake\snake\game.cpp(127): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\aostr\source\repos\snake\snake\game.cpp(133): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\aostr\source\repos\snake\snake\game.cpp(173): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+c:\users\aostr\source\repos\snake\snake\source.cpp(7): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Snake.vcxproj -> C:\Users\aostr\source\repos\Snake\Debug\Snake.exe
